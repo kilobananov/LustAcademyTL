@@ -4,7 +4,7 @@
 translate russian i_1_023_test_e91cf7fa:
 
     # ch_Name "Sam! What are you doing here?"
-    ch_Name "Sam! Что ты тут делаешь?"
+    ch_Name "Сэм! Что ты тут делаешь?"
 
 # game/logic/locations/kitchen.rpy:33
 translate russian i_1_023_test_be050fcc:
@@ -22,7 +22,7 @@ translate russian i_1_023_test_a84e9722:
 translate russian i_1_023_test_93a20ef2:
 
     # Samantha "Tea, of course. Can I pour you one?"
-    Samantha "Чай, конечно. Тебе налить?"
+    Samantha "Чай, конечно же. Тебе налить?"
 
 # game/logic/locations/kitchen.rpy:39
 translate russian i_1_023_test_fa1cbf8c:
@@ -40,7 +40,7 @@ translate russian i_1_023_test_08c89910:
 translate russian i_1_023_test_fcff307e:
 
     # Samantha "What's going on? Did you have another fight with Olivia and Don?"
-    Samantha "Что произошло? Ты снова поругался с Olivia и Don?"
+    Samantha "Что произошло? Ты снова поругался с Оливией и Доном?"
 
 # game/logic/locations/kitchen.rpy:45
 translate russian i_1_023_test_e246eb6d:
@@ -52,7 +52,7 @@ translate russian i_1_023_test_e246eb6d:
 translate russian i_1_023_test_9dffadc6:
 
     # ch_Name "Sam, you don't have to take care of me all the time!"
-    ch_Name "Sam, ты не обязана всё время так обо мне заботиться!"
+    ch_Name "Сэм, ты не обязана всё время так обо мне заботиться!"
 
 # game/logic/locations/kitchen.rpy:49
 translate russian i_1_023_test_12e194a1:
@@ -88,7 +88,7 @@ translate russian i_1_023_test_df682742:
 translate russian i_1_023_test_a4fd11f8:
 
     # ch_Name "Don's punishing me for not going to university."
-    ch_Name "Don наказывает меня за то, что я не учусь в университете."
+    ch_Name "Дон наказывает меня за то, что я не учусь в университете."
 
 # game/logic/locations/kitchen.rpy:61
 translate russian i_1_023_test_d1cb76e7:
@@ -166,7 +166,7 @@ translate russian i_1_023_test_0156708f:
 translate russian kitchen_label_2_04a5fbe8:
 
     # Olivia "Heard you talked to Don."
-    Olivia "Слышала, что ты поговорил с Don."
+    Olivia "Слышала, что ты поговорил с Доном."
 
 # game/logic/locations/kitchen.rpy:98
 translate russian kitchen_label_2_245f2fa8:
@@ -184,7 +184,7 @@ translate russian kitchen_label_2_1ad560a9:
 translate russian kitchen_label_2_a6fbdfe3:
 
     # ch_Name "Do you know where Samantha went? I need to find her."
-    ch_Name "Ты не знаешь, куда пошла Samantha? Мне надо её найти."
+    ch_Name "Ты не знаешь, куда пошла Саманта? Мне надо её найти."
 
 # game/logic/locations/kitchen.rpy:104
 translate russian kitchen_label_2_3902fe2a:
@@ -208,7 +208,7 @@ translate russian kitchen_label_2_253c8c6a:
 translate russian kitchen_label_2_d4047bce:
 
     # ch_Name "It's just a stupid prank from Samantha."
-    ch_Name "Это просто дурацкий розыгрыш от Samantha."
+    ch_Name "Это просто дурацкий розыгрыш от Саманты."
 
 # game/logic/locations/kitchen.rpy:112
 translate russian kitchen_label_2_c451f516:
@@ -232,19 +232,19 @@ translate russian kitchen_label_2_254d851a:
 translate russian kitchen_label_2_27df2f51:
 
     # ch_Name "I have no idea. I just got it out of the mailbox."
-    ch_Name "Понятия не имею. Я только что достал его из ящика."
+    ch_Name "Понятия не имею. Только что достал его из ящика."
 
 # game/logic/locations/kitchen.rpy:120
 translate russian kitchen_label_2_413e202b:
 
     # Olivia "I need to talk to Don right away. I'll hold on to it for now."
-    Olivia "Мне нужно немедленно поговорить с Don. Письмо пока побудет у меня."
+    Olivia "Мне нужно немедленно поговорить с Доном. Письмо пока побудет у меня."
 
 # game/logic/locations/kitchen.rpy:123
 translate russian kitchen_label_2_abec28f9:
 
     # ch_Name "{i}(Olivia's been acting weird lately. She should stop drinking.){/i}"
-    ch_Name "{i}(Olivia странно себя ведёт в последнее время. Ей бы выпиывать поменьше.){/i}"
+    ch_Name "{i}(Оливия странно себя ведёт в последнее время. Ей бы выпиывать поменьше.){/i}"
 
 # game/logic/locations/kitchen.rpy:125
 translate russian kitchen_label_2_475303e6:
@@ -263,4 +263,3 @@ translate russian kitchen_label_2_17f221c8:
 
     # ch_Name "{i}(I should follow and eavesdrop...){/i}"
     ch_Name "{i}(Надо пойти и попробовать подслушать...){/i}"
-
